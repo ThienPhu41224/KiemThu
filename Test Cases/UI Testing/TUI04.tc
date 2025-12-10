@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước Tick box &quot;Remember me&quot;</description>
+   <name>TUI04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f76c58fe-e3fd-4c04-91a2-97314d862db6</testCaseGuid>
+</TestCaseEntity>

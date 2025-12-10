@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra vùng Your Order (Order Summary)</description>
+   <name>TUI16</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db1d1c82-e374-4eb7-8eb4-aecec5cd96c3</testCaseGuid>
+</TestCaseEntity>

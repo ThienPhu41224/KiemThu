@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc theo trạng thái &quot;On Delivery&quot;.</description>
+   <name>T35-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7892a89-8bc2-482b-ba88-655b70e077e6</testCaseGuid>
+</TestCaseEntity>

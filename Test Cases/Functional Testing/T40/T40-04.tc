@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thử gửi với ngày giờ không hợp lệ (quá khứ).</description>
+   <name>T40-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c943e8c8-41a4-4a59-9cef-77575074311f</testCaseGuid>
+</TestCaseEntity>

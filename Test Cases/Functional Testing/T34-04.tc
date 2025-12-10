@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bỏ trống ô tìm kiếm và nhấn nút tìm kiếm.</description>
+   <name>T34-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>538b38c4-f942-4bda-bada-0f408813a228</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số tài khoản đang hoạt động.</description>
+   <name>T18-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43dc77b2-3ab9-4004-b791-10e522bf9cd0</testCaseGuid>
+</TestCaseEntity>

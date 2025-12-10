@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply_normal (7)</name>
+   <tag></tag>
+   <elementGuidId>b3830e40-8e67-4ac9-98a0-c9c812cb7764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#subtotal > button.normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='checkLoginAndProceed()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b25d1e4f-6da9-4601-b2cd-408039670557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>checkLoginAndProceed()</value>
+      <webElementGuid>5137135b-1082-4fa7-891c-973cec615288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>normal</value>
+      <webElementGuid>6c261848-0394-44f1-976b-469d5739ac81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceed to checkout</value>
+      <webElementGuid>6fe07cf4-19f5-4ac4-b14b-1f5e1b965c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subtotal&quot;)/button[@class=&quot;normal&quot;]</value>
+      <webElementGuid>7d2dabde-c205-4b92-89c1-780ff9e4eb30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='checkLoginAndProceed()']</value>
+      <webElementGuid>f955e47f-4d15-4c5e-91ae-269ca5746ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subtotal']/button</value>
+      <webElementGuid>7489d968-7e69-49c0-b520-6ecca02ffc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::button[1]</value>
+      <webElementGuid>da52d978-e630-40d8-9e21-158afebb1526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::button[2]</value>
+      <webElementGuid>64fe38c6-3f7d-42f0-b5e2-fd132884eed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Products'])[1]/preceding::button[1]</value>
+      <webElementGuid>40d5c09d-f89b-4aff-8932-44c2591e8d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canon'])[1]/preceding::button[1]</value>
+      <webElementGuid>67c7ab4d-64cc-4b07-ae53-80ba4a7ad0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceed to checkout']/parent::*</value>
+      <webElementGuid>c9325f1b-45b0-40cb-a839-77aae645c2d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>5d45b7e7-e677-4cb8-9217-efd77dc16420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Proceed to checkout' or . = 'Proceed to checkout')]</value>
+      <webElementGuid>8158fda4-b54d-4f9c-87dd-0ea823786cac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

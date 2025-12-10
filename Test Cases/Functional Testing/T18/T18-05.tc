@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số tài khoản bị chặn.</description>
+   <name>T18-05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>240e970e-9426-424e-8c43-5488c68e81de</testCaseGuid>
+</TestCaseEntity>

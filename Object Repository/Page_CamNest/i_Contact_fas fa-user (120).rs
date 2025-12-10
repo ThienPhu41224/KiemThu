@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contact_fas fa-user (120)</name>
+   <tag></tag>
+   <elementGuidId>5764c644-5c7e-4347-a054-e3e35a6acd34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-user</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='login-icon']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c44d02e8-235d-4215-9570-789a11cd0f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-user</value>
+      <webElementGuid>f65aa039-a3c3-44cd-878d-a0e27b9d7d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-icon&quot;)/a[1]/i[@class=&quot;fas fa-user&quot;]</value>
+      <webElementGuid>983f6348-e291-4cab-ac37-ec454e6d2842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='login-icon']/a/i</value>
+      <webElementGuid>00ec9943-a20f-4bc6-8bfb-315c388d0376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/i</value>
+      <webElementGuid>81b63dd9-2772-4ba4-9357-3549d6a2d2cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reset filter lịch sử.</description>
+   <name>T42-05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83def4a6-5c35-4c34-b3d8-67f177b4e17d</testCaseGuid>
+</TestCaseEntity>

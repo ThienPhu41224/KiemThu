@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số tài khoản đang chờ xử lý.</description>
+   <name>T18-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b329e259-1464-4693-ae2a-ab0000790fba</testCaseGuid>
+</TestCaseEntity>

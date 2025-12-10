@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bỏ trống trường Email.</description>
+   <name>T15-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af7221ed-7ad8-4c18-8422-189d99c9d5e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_So snh s lng sn phm theo nh cung cp__558c02 (1)</name>
+   <tag></tag>
+   <elementGuidId>a5b94b4a-f711-421a-ab25-4072761e4b5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#categoryFilter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='categoryFilter']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4b70c4ae-5b1a-403e-871a-add67da17492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-select</value>
+      <webElementGuid>e60613ce-e284-4350-84e9-bad6820d1a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>categoryFilter</value>
+      <webElementGuid>63f047eb-da72-44e6-9df1-e4bc7319729e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        All Categories
+                        Camera
+                        Gear
+                        Lens
+                    </value>
+      <webElementGuid>878eecb6-6503-453c-9bca-92e05c4e8ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;categoryFilter&quot;)</value>
+      <webElementGuid>4bf489f6-7450-4dea-9201-56109095b844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='categoryFilter']</value>
+      <webElementGuid>d3c72f1b-3715-47a9-bd8b-23e37086fbbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='So sánh số lượng sản phẩm theo nhà cung cấp'])[1]/following::select[1]</value>
+      <webElementGuid>43635ba8-5d8e-4b30-a832-e698a001c2b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm theo hãng'])[1]/following::select[1]</value>
+      <webElementGuid>908392a3-c191-47d5-8408-37c07e55f99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>894e92f7-a5c0-4bca-a138-276e44a57e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'categoryFilter' and (text() = '
+                        All Categories
+                        Camera
+                        Gear
+                        Lens
+                    ' or . = '
+                        All Categories
+                        Camera
+                        Gear
+                        Lens
+                    ')]</value>
+      <webElementGuid>8a8079e6-d820-43b4-aa34-7a6855a7aa58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

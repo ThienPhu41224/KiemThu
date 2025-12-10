@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contact_fa-solid fa-magnifying-glass search_1</name>
+   <tag></tag>
+   <elementGuidId>38c4a72f-1994-40b9-8b37-a4b3870aedfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-field.active > i.fa-solid.fa-magnifying-glass.search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='navbar']/div/div[2]/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>421e850e-d410-4e7a-b483-ebc17772cfef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-magnifying-glass search</value>
+      <webElementGuid>d47535c6-fb5b-47f1-9493-191cad0c18c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;searchBox&quot;]/div[@class=&quot;search-field active&quot;]/i[@class=&quot;fa-solid fa-magnifying-glass search&quot;]</value>
+      <webElementGuid>4b88951b-0d17-4526-b9ff-2c09c04644b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='navbar']/div/div[2]/i[2]</value>
+      <webElementGuid>1a1a0f73-56cd-4582-8d5e-b0745f28d3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i[2]</value>
+      <webElementGuid>cfba305e-f747-4ffd-bd5d-9b2aa67b747e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

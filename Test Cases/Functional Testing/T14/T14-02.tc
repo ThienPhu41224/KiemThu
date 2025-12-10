@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password quá ngắn (&lt; 6 ký tự).</description>
+   <name>T14-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7dadb57-dfcb-4ce8-98f3-fa5ea1ecd58b</testCaseGuid>
+</TestCaseEntity>

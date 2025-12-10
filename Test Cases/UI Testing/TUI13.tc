@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước các thông tin sản phẩm trong Giỏ hàng</description>
+   <name>TUI13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82333e6d-ff89-4a63-86e7-bf4e2b019048</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhấn vào liên kết xác thực hợp lệ.</description>
+   <name>T12-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a38322c9-d7b4-475b-8d8c-1482d96525a8</testCaseGuid>
+</TestCaseEntity>

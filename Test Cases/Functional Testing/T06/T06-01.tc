@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhập thông tin sản phẩm tồn tại trong hệ thống vào thanh &quot;Tìm kiếm&quot;</description>
+   <name>T06-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0351d579-581d-4357-a146-53b058131dcd</testCaseGuid>
+</TestCaseEntity>

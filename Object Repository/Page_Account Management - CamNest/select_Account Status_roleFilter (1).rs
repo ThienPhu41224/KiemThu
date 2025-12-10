@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Account Status_roleFilter (1)</name>
+   <tag></tag>
+   <elementGuidId>ded9d5bd-b597-4c84-9c7a-38f45d7182fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#roleFilter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='roleFilter']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>82bcfb48-8e15-486c-bf99-01d16dcb9434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-select</value>
+      <webElementGuid>0540d77d-ce8e-47fb-85f4-c2352dfbb488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>roleFilter</value>
+      <webElementGuid>bcaed7ff-81a6-4730-9061-fdf231042720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        All Roles
+                        Admin
+                        User
+                        Manager
+                    </value>
+      <webElementGuid>b4469746-fe46-42ec-8235-b0caa2147929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;roleFilter&quot;)</value>
+      <webElementGuid>abe2f3da-691b-4f18-8e8d-7302848067ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='roleFilter']</value>
+      <webElementGuid>563b5aa5-b148-4335-9a97-2f76b29c63c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Status'])[1]/following::select[1]</value>
+      <webElementGuid>2dd5634b-64f5-4497-83c4-03ba58171b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Growth'])[1]/following::select[1]</value>
+      <webElementGuid>2b176b0a-0b27-4077-a488-fb085774a106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Account'])[1]/preceding::select[3]</value>
+      <webElementGuid>790cd483-1835-40ff-8dfb-d93ef1feaeea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Excel'])[1]/preceding::select[3]</value>
+      <webElementGuid>77c5143f-92ee-4b73-876a-094888cbed70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e6e005c5-fb6f-4fbb-aba3-62ce1c4a7bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'roleFilter' and (text() = '
+                        All Roles
+                        Admin
+                        User
+                        Manager
+                    ' or . = '
+                        All Roles
+                        Admin
+                        User
+                        Manager
+                    ')]</value>
+      <webElementGuid>06f6e135-2f4e-43ba-a0e8-888837635302</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

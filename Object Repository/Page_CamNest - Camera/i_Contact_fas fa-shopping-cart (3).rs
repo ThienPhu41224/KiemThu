@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contact_fas fa-shopping-cart (3)</name>
+   <tag></tag>
+   <elementGuidId>32291c4a-b347-4351-8103-9074ba4a0ae6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-shopping-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='lg-cart']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>32a95496-b5d8-44a9-a7c7-01694a10d451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-shopping-cart</value>
+      <webElementGuid>5e6cf60d-fcf6-4d63-94a1-a9aa0aa78bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lg-cart&quot;)/a[1]/i[@class=&quot;fas fa-shopping-cart&quot;]</value>
+      <webElementGuid>ce3b62ea-a9ea-4e23-ac4a-3efad375c97a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='lg-cart']/a/i</value>
+      <webElementGuid>d5379555-30cf-4958-a046-cc65a8726aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>e4352772-d96c-42fe-b131-d2921ecd7cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

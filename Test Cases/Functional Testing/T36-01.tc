@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thêm đơn hàng với dữ liệu hợp lệ.</description>
+   <name>T36-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ee373f2-479f-454f-b32f-e07588a0af3a</testCaseGuid>
+</TestCaseEntity>

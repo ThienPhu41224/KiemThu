@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Trở về trang trước bằng nút Previous.</description>
+   <name>T39-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8450b15-98c1-4758-b583-771a255de81d</testCaseGuid>
+</TestCaseEntity>

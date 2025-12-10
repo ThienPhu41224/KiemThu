@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Bảng Danh sách Tài khoản và các cột</description>
+   <name>TUI24</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3f3705d-cbff-46fe-8ce0-5bf4c1daf71d</testCaseGuid>
+</TestCaseEntity>

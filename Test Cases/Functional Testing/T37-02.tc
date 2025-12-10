@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xuất dữ liệu sau khi lọc (ví dụ: chỉ On Delivery từ Cash on Delivery).</description>
+   <name>T37-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc20af88-f319-4720-9072-55d38738add2</testCaseGuid>
+</TestCaseEntity>

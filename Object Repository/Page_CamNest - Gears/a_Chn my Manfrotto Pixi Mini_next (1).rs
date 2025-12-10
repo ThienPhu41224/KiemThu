@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chn my Manfrotto Pixi Mini_next (1)</name>
+   <tag></tag>
+   <elementGuidId>29ec78c5-18dc-4fe4-ab80-75434bb1aaa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='pagination']/a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d875bc11-e3c1-493e-927f-e0a878886b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?page=2</value>
+      <webElementGuid>5f5a5baf-1fa3-4178-950a-191b047fbcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>dcbaf23d-0ef7-4e1d-8b43-9462222ac89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagination&quot;)/a[@class=&quot;next&quot;]</value>
+      <webElementGuid>1f387df9-9c1c-4d3c-a97f-2391497911a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='pagination']/a[6]</value>
+      <webElementGuid>0ec9199b-9f6b-473f-a566-1d44443b2366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chân máy Manfrotto Pixi Mini'])[1]/following::a[7]</value>
+      <webElementGuid>514aace5-b6fc-41cc-b7ac-441e84b39063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manfrotto'])[8]/following::a[7]</value>
+      <webElementGuid>c5e86c9b-ae4e-47f1-a1aa-65232cb5736e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up for information'])[1]/preceding::a[1]</value>
+      <webElementGuid>0e03eed0-a2ca-4788-81de-3e5c9704d558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='promotions'])[1]/preceding::a[1]</value>
+      <webElementGuid>120403da-15f8-4a2c-b5ee-4f0e939de671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '?page=2')])[2]</value>
+      <webElementGuid>e962a6ea-648e-4d9a-9162-80e869c41bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>789fb852-f632-43c9-8598-56f8541e3248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?page=2']</value>
+      <webElementGuid>f898b26c-93ab-496f-b9b7-794e8fa1b0e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

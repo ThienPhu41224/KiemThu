@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra các danh mục sản phẩm hiển thị đúng trên trang chủ</description>
+   <name>TUI11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b903088b-962c-4af4-bc41-b7e22e822cfb</testCaseGuid>
+</TestCaseEntity>

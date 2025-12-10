@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm sản phẩm tồn tại theo tên.</description>
+   <name>T27-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0af440e3-d2e0-4e38-bb81-b532d7bb72bc</testCaseGuid>
+</TestCaseEntity>

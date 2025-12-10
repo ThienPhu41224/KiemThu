@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số nhà cung cấp.</description>
+   <name>T25-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7d74319-74f2-40d2-a5d8-e6f57dddf47b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;Sign Up&quot;</description>
+   <name>TUI09</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b0c2b10-f8dc-4e78-9821-9a87afd4afab</testCaseGuid>
+</TestCaseEntity>

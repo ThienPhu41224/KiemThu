@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chuyển đến trang 2 bằng số trang.</description>
+   <name>T43-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b843150e-4f08-43fe-b912-517f4ec63ca5</testCaseGuid>
+</TestCaseEntity>

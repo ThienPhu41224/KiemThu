@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Khng xut hin li_page-link (1)</name>
+   <tag></tag>
+   <elementGuidId>ca4645cb-f423-43ee-af6e-9a5f3029998e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.page-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='event.preventDefault(); renderTable(1);']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>466734e9-5f16-4c17-9aff-cc46c9da27ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>53d33dca-465d-4a21-9f0d-18cdb95c71b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-link</value>
+      <webElementGuid>9833114f-ef17-4f3b-a29e-728400303d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>event.preventDefault(); renderTable(1);</value>
+      <webElementGuid>035831fe-8c16-4196-88a5-a0f057971cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trang đầu</value>
+      <webElementGuid>eab40a8b-f41c-4e4e-96f3-74ce2c5b1925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emailStatsTable&quot;)/div[@class=&quot;pagination&quot;]/a[@class=&quot;page-link&quot;]</value>
+      <webElementGuid>0e9b25ac-c191-4c4e-849d-227c1dc3f8e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='event.preventDefault(); renderTable(1);']</value>
+      <webElementGuid>bf4804fa-8c9f-4a3f-a846-0940eaf3ba0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emailStatsTable']/div[2]/a</value>
+      <webElementGuid>8a60103f-3e32-427c-ab04-759d889a42d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Trang đầu')]</value>
+      <webElementGuid>8f477fa6-be0c-4e71-83d4-f1ba07836bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không xuất hiện lỗi'])[10]/following::a[1]</value>
+      <webElementGuid>80e5c815-876c-4395-85ba-45c745af2663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đã gửi (Chưa mở)'])[9]/following::a[1]</value>
+      <webElementGuid>227d84db-2eeb-4fb8-8bd4-4ec84b9306ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang'])[1]/preceding::a[2]</value>
+      <webElementGuid>463e10b9-09ec-41e8-98b3-73621bc741de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/ 2'])[1]/preceding::a[2]</value>
+      <webElementGuid>55b98bd0-ee7a-4aab-bf73-beda37ae2071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trang đầu']/parent::*</value>
+      <webElementGuid>cf9136ad-7a44-45b1-a348-a706eb640836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>bed90b49-ef49-414f-8d2d-f18c10b83a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>0ea0c0f6-4f53-4a2d-92a7-ace587e5673f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Trang đầu' or . = 'Trang đầu')]</value>
+      <webElementGuid>0bb274f8-2e79-46a1-bf24-545cd493f308</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

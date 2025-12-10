@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_x1_total-row</name>
+   <tag></tag>
+   <elementGuidId>59c8da19-4fd7-4f46-8099-eee213041cc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='checkout']/div/div[2]/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.total-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>903d8572-689f-40f7-adbf-bc5593d75575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>total-row</value>
+      <webElementGuid>9da324c2-27d2-4326-8d09-17e30b77ff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Subtotal:
+                                15,290,000 VND
+                            </value>
+      <webElementGuid>0961a23d-846f-4209-9c27-733c9e0dc2a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout&quot;)/div[@class=&quot;checkout-container&quot;]/div[@class=&quot;checkout-content&quot;]/div[@class=&quot;checkout-right&quot;]/div[@class=&quot;order-summary&quot;]/div[@class=&quot;order-totals&quot;]/div[@class=&quot;total-row&quot;]</value>
+      <webElementGuid>8992d540-38ea-4e67-a1ac-4ab2a0770b23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='checkout']/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>6d19ae33-2680-48d6-ab88-b00d8136277f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x1'])[1]/following::div[2]</value>
+      <webElementGuid>6615605a-8e29-4015-8c11-3a49ffac4bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy ảnh kỹ thuật số Sony ZV-E10'])[1]/following::div[4]</value>
+      <webElementGuid>f2c78523-5c2c-4841-a24b-67bec2bf96df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping:'])[1]/preceding::div[1]</value>
+      <webElementGuid>84d15d84-2381-42a7-8746-3e4cb62c5ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>069a3eba-01e1-4ba1-b1be-9da84679f210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                Subtotal:
+                                15,290,000 VND
+                            ' or . = '
+                                Subtotal:
+                                15,290,000 VND
+                            ')]</value>
+      <webElementGuid>c817fc69-e694-4f67-a522-2f4554920b1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

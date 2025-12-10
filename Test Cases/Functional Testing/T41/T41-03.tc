@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Preview khi chưa chọn template.</description>
+   <name>T41-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cd84068-33f2-4b9d-8124-49729df7613d</testCaseGuid>
+</TestCaseEntity>

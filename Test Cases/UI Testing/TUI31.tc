@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị thanh điều khiển danh sách</description>
+   <name>TUI31</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27b5275c-3bc6-45c6-8729-714714c121fd</testCaseGuid>
+</TestCaseEntity>

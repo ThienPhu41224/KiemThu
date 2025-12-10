@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhấn nút Add Account.</description>
+   <name>T21-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>babb727f-f458-408a-82bb-dc065444ea62</testCaseGuid>
+</TestCaseEntity>

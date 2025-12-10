@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra lọc sản phẩm theo danh mục có hiển thị đúng sản phẩm</description>
+   <name>TUI10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6468a17-0af6-48fb-8a72-340a65c3ff4d</testCaseGuid>
+</TestCaseEntity>

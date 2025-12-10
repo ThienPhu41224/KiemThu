@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xóa một sản phẩm.</description>
+   <name>T30-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89fa6ae2-fcf2-4293-90b0-7de817382429</testCaseGuid>
+</TestCaseEntity>

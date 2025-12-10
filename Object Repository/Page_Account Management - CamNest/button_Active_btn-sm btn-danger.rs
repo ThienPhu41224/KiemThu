@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Active_btn-sm btn-danger</name>
+   <tag></tag>
+   <elementGuidId>2d889fe0-70be-4339-9272-549215ad0496</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td:nth-of-type(9) > div.action-buttons > button.btn-sm.btn-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='deleteAccount(3)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e1316ba-78e1-4ca7-96ec-1fa77d789f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-sm btn-danger</value>
+      <webElementGuid>9a11ec01-0582-4bac-af58-025462e659b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>deleteAccount(3)</value>
+      <webElementGuid>7c98707f-d905-4809-8b43-9c8178c4a215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Xóa</value>
+      <webElementGuid>a60df09a-e299-436c-baa3-26d0377c6c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accountsTableBody&quot;)/tr[4]/td[9]/div[@class=&quot;action-buttons&quot;]/button[@class=&quot;btn-sm btn-danger&quot;]</value>
+      <webElementGuid>f5bfd7fe-ab25-4180-b51f-04b9588c8414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='deleteAccount(3)']</value>
+      <webElementGuid>2746167d-7110-4f5c-ada6-215f39ec9667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='accountsTableBody']/tr[4]/td[9]/div/button[2]</value>
+      <webElementGuid>0ef04980-bfc9-48f2-9834-dc20cb806c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::button[2]</value>
+      <webElementGuid>e5524347-4e55-4f7c-971f-8fb17990a321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[6]/following::button[2]</value>
+      <webElementGuid>0afa4dbc-2c5d-44b7-b31c-e7cf28b75dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[7]/preceding::button[1]</value>
+      <webElementGuid>cfd54938-9efc-4568-b485-b73a7d559d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Đã xóa)'])[1]/preceding::button[1]</value>
+      <webElementGuid>f5e95f3b-bb34-4494-8c9f-55b11a72d461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[9]/div/button[2]</value>
+      <webElementGuid>8bc871f7-c663-4ce2-af0f-16a4be8b9e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Xóa']</value>
+      <webElementGuid>0e4819c9-bd8f-4960-90a3-7a9be2a64610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

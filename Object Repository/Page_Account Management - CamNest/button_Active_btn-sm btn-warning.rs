@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Active_btn-sm btn-warning</name>
+   <tag></tag>
+   <elementGuidId>53bfc34d-2483-4f84-b0a1-afcdbe88d252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td:nth-of-type(9) > div.action-buttons > button.btn-sm.btn-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='editAccount(3)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30f1c302-f2af-47bd-a5c6-7b51a414786d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-sm btn-warning</value>
+      <webElementGuid>eb92b822-f673-4eff-929f-e97dff7102e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>editAccount(3)</value>
+      <webElementGuid>293de52c-134a-4e97-bac1-c36fd1a74d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Chỉnh sửa</value>
+      <webElementGuid>11fc4a60-cf94-4459-be95-9e9b17944f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accountsTableBody&quot;)/tr[4]/td[9]/div[@class=&quot;action-buttons&quot;]/button[@class=&quot;btn-sm btn-warning&quot;]</value>
+      <webElementGuid>5012610e-d268-42a8-8319-aa5fc912ebaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='editAccount(3)']</value>
+      <webElementGuid>a8c03e29-fee4-4de7-bc00-64fed7e9de01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='accountsTableBody']/tr[4]/td[9]/div/button</value>
+      <webElementGuid>3fb2d5fb-0442-4c8c-b149-fbf215ba383a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::button[1]</value>
+      <webElementGuid>d917906c-4ae1-463d-8349-5c8e076c5ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[6]/following::button[1]</value>
+      <webElementGuid>7f3ab275-d41f-49cd-a36b-205a223a9d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[7]/preceding::button[2]</value>
+      <webElementGuid>49041d9c-dd44-49d2-a8ab-6c1587a9deb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Đã xóa)'])[1]/preceding::button[2]</value>
+      <webElementGuid>e7665935-e003-4d2e-bcc0-6f91ce46d24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[9]/div/button</value>
+      <webElementGuid>5559914d-5489-4adf-ac27-821459e17168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Chỉnh sửa']</value>
+      <webElementGuid>1e95abfe-1d80-4230-8416-141a701da878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

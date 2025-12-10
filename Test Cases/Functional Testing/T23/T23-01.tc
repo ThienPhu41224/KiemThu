@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chỉnh sửa thông tin tài khoản.</description>
+   <name>T23-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0171ea4c-0412-4552-96da-dbe18b162927</testCaseGuid>
+</TestCaseEntity>

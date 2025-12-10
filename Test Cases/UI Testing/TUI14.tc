@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;Proceed to checkout&quot;</description>
+   <name>TUI14</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f62ff6e4-1df4-410c-9452-6c643fbd2542</testCaseGuid>
+</TestCaseEntity>

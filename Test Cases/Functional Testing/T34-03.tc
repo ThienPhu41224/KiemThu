@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm với từ khóa không tồn tại.</description>
+   <name>T34-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63cf7922-2017-4583-9813-d1ffb1e3d355</testCaseGuid>
+</TestCaseEntity>

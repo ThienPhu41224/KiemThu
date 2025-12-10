@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng k Email_email-stats-chart (1)</name>
+   <tag></tag>
+   <elementGuidId>3f44dbc4-5c52-42c0-a83a-02e26790174b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.email-stats-chart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='emailStatsContent']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>788b9387-ab7d-422e-b352-2109a4d07282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>email-stats-chart</value>
+      <webElementGuid>91235112-d3a4-4a67-9c63-bf0c4264705e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emailStatsContent&quot;)/div[@class=&quot;email-stats-content&quot;]/div[@class=&quot;email-stats-chart&quot;]</value>
+      <webElementGuid>7e5fcebe-2916-4edf-80e0-68d21e880568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emailStatsContent']/div/div</value>
+      <webElementGuid>5ca0aed3-f987-4533-b44f-7cb974a35d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thống kê Email'])[1]/following::div[2]</value>
+      <webElementGuid>3cba6416-38f0-4485-9a15-a94d42d5ee22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Preview'])[1]/following::div[4]</value>
+      <webElementGuid>b6a7421e-e7cb-4b74-87ab-b546b7d0ce10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm email:'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae99c523-adda-4bfe-9d88-28c99ba24732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày gửi:'])[1]/preceding::div[2]</value>
+      <webElementGuid>8051f18c-783f-4b09-a101-8fbfd58fec96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>46c896b2-1a8f-4143-8a74-9a1f83ab9ade</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

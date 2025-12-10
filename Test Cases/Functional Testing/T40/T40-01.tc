@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Gửi email với dữ liệu hợp lệ.</description>
+   <name>T40-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>597fb78a-b8b3-43c7-9167-3153446cf822</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm bằng từ khóa không hợp lệ/không tồn tại.</description>
+   <name>T19-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51f2a1ef-177c-4286-b575-d8d232e95aca</testCaseGuid>
+</TestCaseEntity>

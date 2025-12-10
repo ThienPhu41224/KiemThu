@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm thử thanh toán không đăng nhập</description>
+   <name>T09-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4e0036c-d973-4ca8-9a25-dcb502d09e85</testCaseGuid>
+</TestCaseEntity>

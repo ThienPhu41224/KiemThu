@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_My nh k thut s Sony ZV-E10_far fa-cart-plus cart (1)</name>
+   <tag></tag>
+   <elementGuidId>f535a920-3ef0-42bb-b929-c5df4f511c11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.far.fa-cart-plus.cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>37aabb86-6214-4aff-ae51-506e3b83a2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-cart-plus cart</value>
+      <webElementGuid>c63760bf-6447-4449-a630-4fdc3bdb65a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;pro&quot;]/a[1]/i[@class=&quot;far fa-cart-plus cart&quot;]</value>
+      <webElementGuid>edf80531-95ad-4c36-839e-bec9207ea3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div/a/i</value>
+      <webElementGuid>59511b15-cbd6-4008-8343-b6253a543c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div/a/i</value>
+      <webElementGuid>ee67ca22-58d1-45a6-8e68-5622a3ad49a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

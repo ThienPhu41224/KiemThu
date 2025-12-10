@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Or_alert-danger</name>
+   <tag></tag>
+   <elementGuidId>dbc2c24e-a8fb-4fac-9c10-a2eb8accdf0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signupForm']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95fd9dd9-bd3b-4132-beed-980b7da283ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-danger</value>
+      <webElementGuid>52952071-b84e-47d6-8953-2a6758ac1f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email này đã được đăng ký cho tài khoản của bạn!</value>
+      <webElementGuid>2cde4a92-d99f-4b29-bfce-4573791fdc89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signupForm&quot;)/div[@class=&quot;alert-danger&quot;]</value>
+      <webElementGuid>55adfa44-27cb-4b23-b4b4-956f066b209f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signupForm']/div</value>
+      <webElementGuid>477634d2-8158-474a-9ef5-aae52d76d521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/following::div[4]</value>
+      <webElementGuid>70467271-a253-46c9-b67f-95e581079e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[8]</value>
+      <webElementGuid>c1ef15db-b4a8-42cb-8e75-4f607aa39596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5bb1171-0b6d-4677-9f74-690a6b7012b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🙈'])[2]/preceding::div[1]</value>
+      <webElementGuid>5197a487-e21a-46d3-8cd3-274343402b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email này đã được đăng ký cho tài khoản của bạn!']/parent::*</value>
+      <webElementGuid>b267ab2a-23ae-4d92-bb03-64c4b706dd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div</value>
+      <webElementGuid>3c8fa5ba-c9cf-46e5-a6f7-f7d33b9e39f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email này đã được đăng ký cho tài khoản của bạn!' or . = 'Email này đã được đăng ký cho tài khoản của bạn!')]</value>
+      <webElementGuid>707b2b40-da4b-4867-90d6-f37287994f8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

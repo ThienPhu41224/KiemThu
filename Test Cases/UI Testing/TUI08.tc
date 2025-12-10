@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước Label &quot;I have read and accept EULA&quot; và Label &quot;Subscribe for news!&quot;</description>
+   <name>TUI08</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4781cf94-6312-4d16-90af-ee17a0b1fb1c</testCaseGuid>
+</TestCaseEntity>

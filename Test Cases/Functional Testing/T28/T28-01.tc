@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thêm sản phẩm với dữ liệu hợp lệ.</description>
+   <name>T28-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>537a862d-abac-406f-8707-d265e66c05c7</testCaseGuid>
+</TestCaseEntity>

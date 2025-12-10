@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm đơn hàng tồn tại theo ID.</description>
+   <name>T34-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fce7a23b-8b66-4cdc-bf88-f008057b0ca9</testCaseGuid>
+</TestCaseEntity>

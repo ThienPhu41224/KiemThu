@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xuất dữ liệu toàn bộ danh sách đơn hàng.</description>
+   <name>T37-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>932a9e9d-a749-48b4-bc6b-32249cba974c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bỏ trống Username và nhấn nút &quot;Đăng nhập&quot;</description>
+   <name>T02-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8126ed0b-4b86-4f85-a868-533351887670</testCaseGuid>
+</TestCaseEntity>

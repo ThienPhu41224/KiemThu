@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước thanh &quot;Tìm kiếm&quot;, Placeholder và biểu tượng kính lúp</description>
+   <name>TUI12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ff11a10-6318-4f95-893b-0e3596459859</testCaseGuid>
+</TestCaseEntity>

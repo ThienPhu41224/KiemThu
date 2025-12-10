@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số đơn hàng mới hôm nay.</description>
+   <name>T32-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54ce2ff2-6bf7-40f5-a148-527b4d4a3d29</testCaseGuid>
+</TestCaseEntity>

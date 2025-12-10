@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số lượng sản phẩm theo nhà cung cấp.</description>
+   <name>T26-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae6b05e1-5c1b-4abf-aae4-ec4c0c1c0293</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị số đơn hàng thất bại.</description>
+   <name>T32-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1ba5d3f-9cd7-4f44-81ba-8160746f14bd</testCaseGuid>
+</TestCaseEntity>

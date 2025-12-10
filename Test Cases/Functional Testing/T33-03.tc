@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị doanh thu theo phương thức thanh toán.</description>
+   <name>T33-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>611617cd-9330-4598-aefb-c15b6ce09acc</testCaseGuid>
+</TestCaseEntity>

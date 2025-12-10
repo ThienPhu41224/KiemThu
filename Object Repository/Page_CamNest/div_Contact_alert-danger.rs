@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact_alert-danger</name>
+   <tag></tag>
+   <elementGuidId>86f4790a-42a7-4ddf-8007-c93ecf84183b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginPopup']/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4642b45e-6829-4946-b579-acb7e631ab85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-danger</value>
+      <webElementGuid>c2ebd4ce-f384-40c0-b5c9-2c44143edc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sai mật khẩu hoặc tài khoản không tồn tại.</value>
+      <webElementGuid>103ad1cf-c294-4b78-a1d0-b5783545fd22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginPopup&quot;)/div[@class=&quot;main&quot;]/div[@class=&quot;login&quot;]/form[1]/div[@class=&quot;alert-danger&quot;]</value>
+      <webElementGuid>d23d1030-d21b-4e3c-8302-42278f7b43ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginPopup']/div/div/form/div</value>
+      <webElementGuid>855ee27e-0941-4987-baa7-f653c3f0561c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::div[8]</value>
+      <webElementGuid>60fb1dbf-eaf8-44f5-acce-cdda7de2de3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::div[8]</value>
+      <webElementGuid>27d218f3-2187-4514-8dc0-fdd6fcde06c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🙈'])[1]/preceding::div[1]</value>
+      <webElementGuid>3beb7403-dec3-4287-8b0e-064f4341d876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/preceding::div[2]</value>
+      <webElementGuid>dba103ea-54e6-4272-84f9-4a9b38fc721f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sai mật khẩu hoặc tài khoản không tồn tại.']/parent::*</value>
+      <webElementGuid>745e68d2-591c-4990-a5df-e61632b2a4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>507274cf-4ad4-4986-99b7-a9cbe6d9c168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sai mật khẩu hoặc tài khoản không tồn tại.' or . = 'Sai mật khẩu hoặc tài khoản không tồn tại.')]</value>
+      <webElementGuid>f88e06c5-0488-47ad-9c2e-042acca867ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

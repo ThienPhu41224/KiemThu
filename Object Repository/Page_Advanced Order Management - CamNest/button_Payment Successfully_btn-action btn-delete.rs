@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Payment Successfully_btn-action btn-delete</name>
+   <tag></tag>
+   <elementGuidId>83a87176-8ff6-4641-b551-faa20196da31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(9) > div.action-buttons > button.btn-action.btn-delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>64fcbc22-215c-4678-a376-5888362d945f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d10d71d4-53ad-4a6c-ad2c-fa7f4961e99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-action btn-delete</value>
+      <webElementGuid>83747fd9-ae2c-46cf-9790-73cf2c73cc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>deleteOrder(2)</value>
+      <webElementGuid>b2311fd1-49e6-40d7-932a-dad018ed59dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>151a6caf-ff66-40a2-86e1-74f369bb5b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;orders-section&quot;]/div[@class=&quot;table-container&quot;]/table[@class=&quot;orders-table&quot;]/tbody[1]/tr[2]/td[9]/div[@class=&quot;action-buttons&quot;]/button[@class=&quot;btn-action btn-delete&quot;]</value>
+      <webElementGuid>959a05c5-dcbc-42a7-8762-b7fb786d7ffb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>8ff5963f-4985-42fc-96c6-5acd7e3d7fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Successfully'])[2]/following::button[2]</value>
+      <webElementGuid>6aa32ab0-f41a-43a8-aa7f-5f7b5e107612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Banking'])[2]/following::button[2]</value>
+      <webElementGuid>d0b3c4df-c03f-44e1-8836-bab8da30d672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn hàng 3'])[1]/preceding::button[1]</value>
+      <webElementGuid>1fcb46cf-cec9-481f-8e67-558118eced1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID: 3'])[1]/preceding::button[1]</value>
+      <webElementGuid>c0371121-bb2b-4428-8493-1c66818aaed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[9]/div/button[2]</value>
+      <webElementGuid>3988eb7d-84c0-4d83-bb2e-2626fbb13274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Delete']</value>
+      <webElementGuid>c8d9d08d-9c6a-4829-b962-4db234e7d6d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

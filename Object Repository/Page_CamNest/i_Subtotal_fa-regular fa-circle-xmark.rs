@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Subtotal_fa-regular fa-circle-xmark</name>
+   <tag></tag>
+   <elementGuidId>9544d454-2524-49f4-9497-c45fcf50d6d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-regular.fa-circle-xmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cart-items']/tr/td/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>21c1d907-6cbd-41f6-9291-c2b5740e8307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-regular fa-circle-xmark</value>
+      <webElementGuid>04e64c8f-b853-447b-b07b-e033729ced3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-items&quot;)/tr[1]/td[1]/a[1]/i[@class=&quot;fa-regular fa-circle-xmark&quot;]</value>
+      <webElementGuid>78d85539-1585-4ff6-b12a-093203792850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cart-items']/tr/td/a/i</value>
+      <webElementGuid>8c9d4198-deb8-400e-b3d4-acf2bbcf3b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/i</value>
+      <webElementGuid>0e36657b-122a-4dac-ab53-ba335b255607</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

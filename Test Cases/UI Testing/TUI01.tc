@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước giao diện Popup &quot;Login&quot;</description>
+   <name>TUI01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1f62f96-245a-4b22-9319-3bcce3f11a16</testCaseGuid>
+</TestCaseEntity>

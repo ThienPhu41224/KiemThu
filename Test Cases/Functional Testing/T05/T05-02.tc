@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm thử trở về trang 1 bằng số trang</description>
+   <name>T05-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b782a57d-992e-4d09-aeb2-776ad3464056</testCaseGuid>
+</TestCaseEntity>

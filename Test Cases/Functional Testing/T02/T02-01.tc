@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhập đúng Username&#xd;
+Nhập sai Mật khẩu</description>
+   <name>T02-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>139ae50b-156d-4543-b974-0d2a0e9469ef</testCaseGuid>
+</TestCaseEntity>

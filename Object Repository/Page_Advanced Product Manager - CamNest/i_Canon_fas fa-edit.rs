@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Canon_fas fa-edit</name>
+   <tag></tag>
+   <elementGuidId>f4cdfa6b-fe57-479e-8312-f51995912ba5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td:nth-of-type(7) > div.action-buttons > a.btn-sm.btn-info > i.fas.fa-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='productsTableBody']/tr[5]/td[7]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e85b13e3-d7ae-4f33-98eb-198dc6a606dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-edit</value>
+      <webElementGuid>e2e05fd1-ae1e-4466-95d2-9c51043d6d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productsTableBody&quot;)/tr[5]/td[7]/div[@class=&quot;action-buttons&quot;]/a[@class=&quot;btn-sm btn-info&quot;]/i[@class=&quot;fas fa-edit&quot;]</value>
+      <webElementGuid>0a5e2284-931f-4155-89a6-863936d274fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='productsTableBody']/tr[5]/td[7]/div/a/i</value>
+      <webElementGuid>45059d68-8bc6-4c4e-ba92-edbabbd48f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[7]/div/a/i</value>
+      <webElementGuid>74ff3457-fe99-479d-b45f-7bd2a5e8d318</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

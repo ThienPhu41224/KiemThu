@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Brand_brand (1)</name>
+   <tag></tag>
+   <elementGuidId>7fb9fd64-97ce-4ff0-8b69-d08ca94aabd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#brand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='brand']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c0317385-fd52-4695-8529-cf822b741890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>brand</value>
+      <webElementGuid>19f748f2-ffd5-4065-83b2-c1e778db725f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>brand</value>
+      <webElementGuid>6f41ca47-e419-46f4-aad6-2bd751a0a9e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            All Brands
+                            Canon
+                            Nikon
+                            Sony
+                            Fujifilm
+                        </value>
+      <webElementGuid>6c501043-5612-48b2-9ede-feae66fb8792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brand&quot;)</value>
+      <webElementGuid>409ef914-342c-48ed-a6d1-9e96fc97fca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='brand']</value>
+      <webElementGuid>d7f94800-d4cb-4851-b68f-1983c955717d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='filter-form']/div/div/select</value>
+      <webElementGuid>0d0941ea-81c8-4741-83e7-72ef6046c256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::select[1]</value>
+      <webElementGuid>ca4559e9-68d0-4140-8437-42aface27e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find Your Camera'])[1]/following::select[1]</value>
+      <webElementGuid>551c872a-18bd-4245-8aff-5d82a0b557f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price Range'])[1]/preceding::select[1]</value>
+      <webElementGuid>333c9b19-200a-4e39-abaf-ed389cdbe7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/preceding::select[2]</value>
+      <webElementGuid>3c24acec-4552-49a6-a2b8-f026e383289b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>15bfafb3-0528-4ae3-ae25-bea5b0eae58c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'brand' and @name = 'brand' and (text() = '
+                            All Brands
+                            Canon
+                            Nikon
+                            Sony
+                            Fujifilm
+                        ' or . = '
+                            All Brands
+                            Canon
+                            Nikon
+                            Sony
+                            Fujifilm
+                        ')]</value>
+      <webElementGuid>002577e7-faf4-4833-8b42-d62abcc5f553</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

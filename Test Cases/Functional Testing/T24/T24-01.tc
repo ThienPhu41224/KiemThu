@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tải thêm/chuyển trang danh sách tài khoản.</description>
+   <name>T24-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd87adbc-eb34-4cac-9c8d-d9481856516c</testCaseGuid>
+</TestCaseEntity>

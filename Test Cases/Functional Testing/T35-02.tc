@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc theo phương thức &quot;Cash on Delivery&quot;.</description>
+   <name>T35-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f260acd5-0ec5-404b-9d3d-f6de691eb7a7</testCaseGuid>
+</TestCaseEntity>

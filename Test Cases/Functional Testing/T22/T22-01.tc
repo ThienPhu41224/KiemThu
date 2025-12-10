@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xuất dữ liệu danh sách tài khoản.</description>
+   <name>T22-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>532dbfba-35e8-4b87-a5ac-08078a402bcf</testCaseGuid>
+</TestCaseEntity>

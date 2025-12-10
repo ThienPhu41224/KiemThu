@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra chức năng chuyển trang khi nhấn vào mục &quot;Home&quot;</description>
+   <name>TUI17</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5bea2014-76bb-4592-a26c-608490818f36</testCaseGuid>
+</TestCaseEntity>

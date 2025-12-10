@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Gửi email với template Custom và file đính kèm.</description>
+   <name>T40-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e465a3a-c3de-422c-a4d3-dbaf379a3c6b</testCaseGuid>
+</TestCaseEntity>

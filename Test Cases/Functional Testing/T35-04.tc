@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc theo tổng giá (ví dụ: range high-low).</description>
+   <name>T35-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0787c610-f057-4235-9afd-3d0d8a44dd26</testCaseGuid>
+</TestCaseEntity>

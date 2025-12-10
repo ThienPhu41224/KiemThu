@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhấn vào liên kết chuyển trang Đăng nhập.</description>
+   <name>T17-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b36f799-f44d-4430-bc29-bed206cb7fec</testCaseGuid>
+</TestCaseEntity>

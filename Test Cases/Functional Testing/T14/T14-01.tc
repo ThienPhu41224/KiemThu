@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password và Confirmed Password không trùng nhau.</description>
+   <name>T14-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbd09d1a-6f4f-4aaf-8788-a83e8b3fdb1e</testCaseGuid>
+</TestCaseEntity>

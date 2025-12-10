@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chuyển đến trang tiếp theo bằng nút Next.</description>
+   <name>T31-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87eef4ff-657b-47cf-ae09-486a5402040f</testCaseGuid>
+</TestCaseEntity>

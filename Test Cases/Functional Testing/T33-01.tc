@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị phân bố theo trạng thái.</description>
+   <name>T33-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97ceb55a-4dcf-4727-b07a-407d6bc36849</testCaseGuid>
+</TestCaseEntity>

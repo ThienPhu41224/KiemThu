@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Preview với template Promotional_Custom.</description>
+   <name>T41-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4e490ef-8fa4-4f5e-89c4-8ff923384b21</testCaseGuid>
+</TestCaseEntity>

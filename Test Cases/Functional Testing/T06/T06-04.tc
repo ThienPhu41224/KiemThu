@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bỏ trống thanh &quot;Tìm kiếm&quot; và nhấn biểu tượng kính lúp</description>
+   <name>T06-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>335dd377-8277-40f7-a4df-4bf9471f9544</testCaseGuid>
+</TestCaseEntity>

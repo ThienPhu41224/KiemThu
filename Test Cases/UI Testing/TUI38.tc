@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Thanh Tìm kiếm và Bộ lọc trong thống kê</description>
+   <name>TUI38</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aec274cc-e9f0-4646-a69b-1f039556c3ed</testCaseGuid>
+</TestCaseEntity>

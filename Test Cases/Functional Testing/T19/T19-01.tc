@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm bằng từ khóa hợp lệ (Ví dụ: tên người dùng).</description>
+   <name>T19-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d78fe30-e3f8-4497-af05-796ca98c801c</testCaseGuid>
+</TestCaseEntity>

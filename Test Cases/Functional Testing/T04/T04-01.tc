@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra chi tiết sản phẩm &quot;Canon EOS R50&quot;</description>
+   <name>T04-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d9c20f1-4cad-4678-875f-fd37e292221c</testCaseGuid>
+</TestCaseEntity>

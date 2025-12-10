@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc theo trạng thái Active.</description>
+   <name>T20-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8616d70e-49b9-4658-b6ef-e0b81e566f10</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Trở về trang 1 bằng số trang.</description>
+   <name>T31-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7f11683-cf4c-4460-9775-9177ab9ab89c</testCaseGuid>
+</TestCaseEntity>

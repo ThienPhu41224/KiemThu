@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thử thêm sản phẩm với trường bắt buộc bỏ trống (ví dụ: tên sản phẩm, giá sản phẩm).</description>
+   <name>T28-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0aad9b53-fc25-4500-ae90-9032447974ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước các trang Đăng nhập, Đăng ký, Danh mục sản phẩm, Thanh tìm kiếm, Giỏ hàng trên trình duyệt Chrome và Edge</description>
+   <name>TUIC20</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1cbdcb5-3e83-410b-a1e4-a041440ca0b8</testCaseGuid>
+</TestCaseEntity>

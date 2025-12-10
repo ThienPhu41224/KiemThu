@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Flash Canon Speedlite 470EX-AI, Mi 100_prev</name>
+   <tag></tag>
+   <elementGuidId>5c884818-3fdf-4937-9dec-99cdd0a5f7b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.prev</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='pagination']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ccd74e45-71e3-489a-8ed8-2d6d67316eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?page=1</value>
+      <webElementGuid>b1acf18d-67fb-466f-a89a-25dbd71c88c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prev</value>
+      <webElementGuid>336197fd-35a6-4982-919a-9131734b4a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagination&quot;)/a[@class=&quot;prev&quot;]</value>
+      <webElementGuid>fb22aa99-64f8-4337-b65e-5fd98c5792bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='pagination']/a</value>
+      <webElementGuid>b4632513-0b79-4f9b-bc1b-937f93fa0866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flash Canon Speedlite 470EX-AI, Mới 100%'])[1]/following::a[2]</value>
+      <webElementGuid>dca5c55a-e206-49e7-90e1-c02fea2c5417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canon'])[7]/following::a[2]</value>
+      <webElementGuid>d599fa61-08c9-4655-841e-26f0cf881d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up for information'])[1]/preceding::a[7]</value>
+      <webElementGuid>47c28ac3-cb8e-4ba3-b52a-e9a7fd25a26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='promotions'])[1]/preceding::a[7]</value>
+      <webElementGuid>e3ff2476-aeab-4a2a-ba88-585bfad45f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '?page=1')]</value>
+      <webElementGuid>f37dc72a-0dfb-45f7-84e8-4c03692a7a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/a</value>
+      <webElementGuid>e75dc2bb-f301-46e9-98cf-0826dd88b1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?page=1']</value>
+      <webElementGuid>b3fe0e07-76e9-43cf-8d15-5a4473167a99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

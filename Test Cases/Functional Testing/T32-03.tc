@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị tổng doanh thu.</description>
+   <name>T32-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a5b8a29-bddd-43ff-81b5-edcb75f746d9</testCaseGuid>
+</TestCaseEntity>

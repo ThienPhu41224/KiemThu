@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xác minh rằng nút &quot;Tiến hành thanh toán&quot; hoạt động</description>
+   <name>T08-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>007d6126-0b50-403b-8264-77d6e41d3730</testCaseGuid>
+</TestCaseEntity>

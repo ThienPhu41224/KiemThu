@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước Label &quot;Forgot password&quot; và Label &quot;I don’t have an account&quot;</description>
+   <name>TUI03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44c893be-aebc-4e46-94ca-bdb302f4b24d</testCaseGuid>
+</TestCaseEntity>

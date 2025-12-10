@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc sản phẩm Camera theo giá và hãng sản phẩm</description>
+   <name>T03-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7431cd5-f911-45cc-bb6a-1237ddf20328</testCaseGuid>
+</TestCaseEntity>

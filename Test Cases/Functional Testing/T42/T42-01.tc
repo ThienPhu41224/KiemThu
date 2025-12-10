@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hiển thị biểu đồ thống kê tỷ lệ email.</description>
+   <name>T42-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f5cf992-a2d6-4411-b7f8-676e938e69aa</testCaseGuid>
+</TestCaseEntity>

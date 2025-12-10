@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Bảng Danh sách Đơn hàng và các cột</description>
+   <name>TUI32</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d4785a1-e26f-422f-94da-899e954872de</testCaseGuid>
+</TestCaseEntity>

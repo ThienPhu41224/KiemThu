@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thử gửi với trường bắt buộc bỏ trống (Subject).</description>
+   <name>T40-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>438633a4-2d18-4cd5-80e8-af9219ecdae4</testCaseGuid>
+</TestCaseEntity>

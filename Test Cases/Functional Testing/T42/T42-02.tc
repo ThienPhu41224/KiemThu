@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc lịch sử theo thời gian.</description>
+   <name>T42-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4be0079-3213-48d1-aa8d-28cdde4dd3ae</testCaseGuid>
+</TestCaseEntity>

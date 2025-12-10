@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước Khu vực Gửi Email (Email Form)</description>
+   <name>TUI33</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de477f26-6ba5-4558-bb8d-417fbaf574e7</testCaseGuid>
+</TestCaseEntity>

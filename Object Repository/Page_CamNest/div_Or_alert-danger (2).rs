@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Or_alert-danger (2)</name>
+   <tag></tag>
+   <elementGuidId>74a9ee2b-583c-4896-9fdd-0c59ab48527b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signupForm']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e50594b0-209b-4715-83ee-8793c96bed23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-danger</value>
+      <webElementGuid>4166ee20-1d75-4cc0-86c5-d82ab3d06176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mật khẩu tối thiểu 6 ký tự, gồm chữ hoa, chữ thường, số, ký tự đặc biệt!</value>
+      <webElementGuid>5666b2e1-5fe6-4c54-b1d6-e402fa10e562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signupForm&quot;)/div[@class=&quot;alert-danger&quot;]</value>
+      <webElementGuid>5bc87c7f-0e1e-4b39-815c-a372502e1e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signupForm']/div</value>
+      <webElementGuid>5e1c5f41-d4e0-4b3c-9c8a-46d1b0921292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/following::div[4]</value>
+      <webElementGuid>f24e20d1-f482-49c3-bafa-77bfa269d734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[8]</value>
+      <webElementGuid>d1ab0d88-7fc2-4897-b6aa-2a2b2cc44587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::div[1]</value>
+      <webElementGuid>f27e99d0-8155-4a76-a29c-46731abbb1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🙈'])[2]/preceding::div[1]</value>
+      <webElementGuid>cc736079-e55d-4112-b9e1-2107085e3090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mật khẩu tối thiểu 6 ký tự, gồm chữ hoa, chữ thường, số, ký tự đặc biệt!']/parent::*</value>
+      <webElementGuid>0b1d3e4e-2c9f-45f5-ab48-c765bb318475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div</value>
+      <webElementGuid>b86956ec-ebfd-469c-8fa6-10ab65c272e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mật khẩu tối thiểu 6 ký tự, gồm chữ hoa, chữ thường, số, ký tự đặc biệt!' or . = 'Mật khẩu tối thiểu 6 ký tự, gồm chữ hoa, chữ thường, số, ký tự đặc biệt!')]</value>
+      <webElementGuid>3dd913ae-833f-4bce-b3bf-e7f5c16298d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

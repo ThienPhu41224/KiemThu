@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhập thông tin sản phẩm gần đúng (thiếu thông tin) và kiểm tra gợi ý có hiển thị đúng không</description>
+   <name>T06-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1f83b77-9df8-4780-a1da-257e6f3ac430</testCaseGuid>
+</TestCaseEntity>

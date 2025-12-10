@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bỏ trống ô tìm kiếm và nhấn nút tìm kiếm.</description>
+   <name>T27-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fb6a566-26ae-4ed9-be2c-14778b56e460</testCaseGuid>
+</TestCaseEntity>

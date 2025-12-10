@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xuất dữ liệu sau khi lọc (ví dụ: chỉ Gear từ Canon).</description>
+   <name>T29-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd542965-da4a-4c77-9aff-edd8cc43c437</testCaseGuid>
+</TestCaseEntity>

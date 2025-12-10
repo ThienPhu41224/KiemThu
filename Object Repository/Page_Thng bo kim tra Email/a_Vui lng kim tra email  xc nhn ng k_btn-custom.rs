@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vui lng kim tra email  xc nhn ng k_btn-custom</name>
+   <tag></tag>
+   <elementGuidId>7e39d2e9-13d8-42e7-9ec3-f7e94dc52faf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-custom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Kiểm tra Email')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>506c0e2a-5ac4-413c-9294-ab2648b9d11a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://mail.google.com/</value>
+      <webElementGuid>82d3aa18-7178-4950-a3a3-e233f64806c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-custom</value>
+      <webElementGuid>bf90d9d7-7809-4917-a3e7-b9039dfffee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kiểm tra Email</value>
+      <webElementGuid>86c141ac-104e-4c7a-9c93-0b38644884cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;notification-container&quot;]/a[@class=&quot;btn-custom&quot;]</value>
+      <webElementGuid>b7072024-1f33-4230-8f04-7a8861e471ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kiểm tra Email')]</value>
+      <webElementGuid>100eb27d-770f-4df8-b12f-14f84dbe5c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng kiểm tra email để xác nhận đăng ký!'])[1]/following::a[1]</value>
+      <webElementGuid>194268e6-0b0e-4291-a9a5-6e53a183c873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kiểm tra Email']/parent::*</value>
+      <webElementGuid>4d32c689-eb0f-4b24-808c-0db9a0860e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://mail.google.com/')]</value>
+      <webElementGuid>9475e10b-bd35-4785-81cf-9c02184654f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>4001029e-5000-49cc-842b-702b0137a768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://mail.google.com/' and (text() = 'Kiểm tra Email' or . = 'Kiểm tra Email')]</value>
+      <webElementGuid>02c2c6d6-5a8d-4da3-b5dc-ba26aaf13f3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

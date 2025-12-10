@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Xuất dữ liệu toàn bộ danh sách sản phẩm.</description>
+   <name>T29-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9b4243d-0862-42b5-a948-258363661bdd</testCaseGuid>
+</TestCaseEntity>

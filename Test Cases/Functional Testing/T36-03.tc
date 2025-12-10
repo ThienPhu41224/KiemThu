@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hủy thêm đơn hàng (nhấn &quot;Cancel&quot;).</description>
+   <name>T36-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69e46286-cc9b-4aa2-a63f-895d7f506267</testCaseGuid>
+</TestCaseEntity>

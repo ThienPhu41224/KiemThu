@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chỉnh sửa thông tin đơn hàng.</description>
+   <name>T38-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b9f7764-686f-4179-9cdb-d8b5a3ef835f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add Product_fas fa-plus</name>
+   <tag></tag>
+   <elementGuidId>e8a4376f-c0ac-4592-8df6-d01c45d0447a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>22bf70da-922f-4d49-a119-e2f4b4942765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>2f1ba18e-3574-4c90-b94b-50fdde024398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;advanced-controls&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>8097e83c-aedc-4bdc-987a-4baf790cf19f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/i</value>
+      <webElementGuid>970785e6-ea70-47b5-a4ef-b0a142635cc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

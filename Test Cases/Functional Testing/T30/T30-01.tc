@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chỉnh sửa thông tin sản phẩm.</description>
+   <name>T30-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f18a8a94-5eb7-419c-bb57-7b09870e5d3a</testCaseGuid>
+</TestCaseEntity>

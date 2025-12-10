@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact_password-container</name>
+   <tag></tag>
+   <elementGuidId>726a2ddd-3210-49ff-879a-f372499680d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.password-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginPopup']/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d9b9245-3120-4932-971f-ad3978fb5998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password-container</value>
+      <webElementGuid>1c2ff1c9-d9e2-4836-83b5-f9c751fcf70b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        🙈
+                    </value>
+      <webElementGuid>0efc87e8-47be-4502-98ec-44d81be50558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginPopup&quot;)/div[@class=&quot;main&quot;]/div[@class=&quot;login&quot;]/form[1]/div[@class=&quot;password-container&quot;]</value>
+      <webElementGuid>1b41300c-ae2e-4ce9-89ce-ea8ab8e73bba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginPopup']/div/div/form/div</value>
+      <webElementGuid>e84c2bee-1540-4a08-a8ca-b48c50ce8960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::div[8]</value>
+      <webElementGuid>02de4cc7-faa4-4905-8a66-ed86791d8e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::div[8]</value>
+      <webElementGuid>472a65d9-103c-4edf-952d-00142bdf46fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/preceding::div[1]</value>
+      <webElementGuid>589bbfb6-7928-4e3f-8202-3133b24277bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>b2b4bb73-52e7-40f7-b175-653eee500448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        
+                        🙈
+                    ' or . = '
+                        
+                        🙈
+                    ')]</value>
+      <webElementGuid>496c6213-9626-426e-8349-df2401ffab4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

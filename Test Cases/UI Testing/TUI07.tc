@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước các trường &quot;Username&quot;, &quot;Email&quot;,  &quot;Password&quot;, &quot;Confirm Password&quot;</description>
+   <name>TUI07</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4923d046-e1b0-45f8-a988-be0f5f90960e</testCaseGuid>
+</TestCaseEntity>

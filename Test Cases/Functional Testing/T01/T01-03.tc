@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thử nghiệm với độ dài tên người dùng và mật khẩu tối thiểu cho phép&#xd;
+(30 kí tự)</description>
+   <name>T01-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd439078-cbb4-4720-bd28-b5ec8e529af2</testCaseGuid>
+</TestCaseEntity>

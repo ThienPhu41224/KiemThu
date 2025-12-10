@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhập Email sai định dạng (thiếu @).</description>
+   <name>T13-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6272e78-ef48-4f80-a503-577d09e4f13e</testCaseGuid>
+</TestCaseEntity>

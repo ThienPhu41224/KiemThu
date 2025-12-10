@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bỏ trống trường Username.</description>
+   <name>T15-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>431dcfa7-d204-4717-8ccf-65cd40c3a8ca</testCaseGuid>
+</TestCaseEntity>

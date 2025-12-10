@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm với từ khóa không tồn tại.</description>
+   <name>T27-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13b789ad-3f82-47ab-82c8-38e54d63fc2f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị đầy đủ các Trường nhập liệu trong Form</description>
+   <name>TUI34</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d093964-fbfc-4667-9d8c-75fa32e2efa2</testCaseGuid>
+</TestCaseEntity>

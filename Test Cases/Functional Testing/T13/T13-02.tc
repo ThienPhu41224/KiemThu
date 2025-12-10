@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhập Email đã tồn tại trong hệ thống.</description>
+   <name>T13-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d60d075-1cd2-4211-a00a-02be799a2c53</testCaseGuid>
+</TestCaseEntity>

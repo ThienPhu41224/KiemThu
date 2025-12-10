@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>2bcf8397-731c-483c-bc8d-f0d49dce5c34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>bcbf9a4c-9e9b-4098-be06-9e35e8066e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z</value>
+      <webElementGuid>b7b27f2b-8e57-4bfa-8c1b-04390ad921cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gb&quot;)/div[@class=&quot;gb_Kd gb_Nd gb_Zd&quot;]/div[@class=&quot;gb_Sd gb_rd gb_sd&quot;]/div[@class=&quot;gb_1c&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>7281338f-ef92-442f-87f7-9b5325245d7e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

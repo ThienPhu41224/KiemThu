@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Thử thêm đơn hàng với trường bắt buộc bỏ trống (ví dụ: Ngày đặt hàng).</description>
+   <name>T36-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba957ec6-0ba6-44fd-8126-9c740a1f5d6a</testCaseGuid>
+</TestCaseEntity>

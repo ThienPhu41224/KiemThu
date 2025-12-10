@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị tổng số sản phẩm.</description>
+   <name>T25-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcafbc0b-8fdd-47f9-b65c-e3e06eb8bcfa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc kết hợp trạng thái và phương thức.</description>
+   <name>T35-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96080cc0-ea3c-40b3-877c-dd4271e04481</testCaseGuid>
+</TestCaseEntity>

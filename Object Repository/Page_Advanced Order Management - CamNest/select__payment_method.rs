@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__payment_method</name>
+   <tag></tag>
+   <elementGuidId>f1ed535f-68dd-4313-95b5-cf28c87863ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payment_method</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='payment_method']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f2864d95-720e-409b-8cc0-2fdd81ee83b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>5cab4362-3861-4cfc-a46f-c4e9edef6991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>payment_method</value>
+      <webElementGuid>0fbdf5e1-c0b0-4f98-a2d6-e4972ad412b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>payment_method</value>
+      <webElementGuid>64a82c3c-1287-4fd3-b8d8-06145ff6837f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Cash On Delivery
+                        Online Banking
+                    </value>
+      <webElementGuid>ac8796eb-8b19-4928-8117-122a30145c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment_method&quot;)</value>
+      <webElementGuid>4d5ced94-f01d-4632-a3cb-34a8dee42fff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='payment_method']</value>
+      <webElementGuid>14bb2f14-579c-43a7-982d-b1b4a5384420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='orderForm']/div[4]/select</value>
+      <webElementGuid>49df455d-0160-450e-96c8-dc91800e089d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>4da12bae-ca4b-44d0-8349-7bc903b73cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/preceding::select[1]</value>
+      <webElementGuid>27a7f001-b540-479f-97ec-45e0a1d00e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/select</value>
+      <webElementGuid>63dfa4b7-46b8-443a-a6f7-96d19c0b20e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'payment_method' and @name = 'payment_method' and (text() = '
+                        Cash On Delivery
+                        Online Banking
+                    ' or . = '
+                        Cash On Delivery
+                        Online Banking
+                    ')]</value>
+      <webElementGuid>879837d6-b392-46df-8134-872f92d32c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

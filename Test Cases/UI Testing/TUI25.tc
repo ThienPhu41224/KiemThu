@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị 4 widget thống kê chính</description>
+   <name>TUI25</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff81ec51-cf90-44a4-b665-03c6a6db363e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm thử thanh lọc 1 lựa chọn</description>
+   <name>T10-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc406781-17cf-4bd4-845b-e97df7b64044</testCaseGuid>
+</TestCaseEntity>

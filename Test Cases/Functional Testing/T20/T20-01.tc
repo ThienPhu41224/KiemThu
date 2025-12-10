@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lọc theo vai trò Admin.</description>
+   <name>T20-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20325b0a-06ec-43b4-9520-d4b925d284e6</testCaseGuid>
+</TestCaseEntity>

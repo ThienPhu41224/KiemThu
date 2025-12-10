@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra việc thêm sản phẩm vào giỏ hàng</description>
+   <name>T07-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cc8cb00-76a1-4d03-beca-cf1d91655fc7</testCaseGuid>
+</TestCaseEntity>

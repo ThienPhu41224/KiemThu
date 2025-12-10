@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm thử đi đến trang 2</description>
+   <name>T05-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9591306-e20f-4344-95ed-7325c37fb59a</testCaseGuid>
+</TestCaseEntity>

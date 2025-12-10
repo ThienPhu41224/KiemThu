@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra đăng nhập sau khi đặt lại mật khẩu để đảm bảo mật khẩu &#xd;
+mới hoạt động</description>
+   <name>T01-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7aa3c9fb-dafe-409e-bf58-75327970caae</testCaseGuid>
+</TestCaseEntity>

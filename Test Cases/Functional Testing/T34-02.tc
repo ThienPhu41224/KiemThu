@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tìm kiếm theo tên khách hàng gần đúng.</description>
+   <name>T34-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c267d64-1281-4167-a35c-2fb617860bdc</testCaseGuid>
+</TestCaseEntity>

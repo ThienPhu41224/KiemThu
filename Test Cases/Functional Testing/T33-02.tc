@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Top khách hàng.</description>
+   <name>T33-02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4582ec6-b8c3-4b22-a308-47d8f95bfb73</testCaseGuid>
+</TestCaseEntity>

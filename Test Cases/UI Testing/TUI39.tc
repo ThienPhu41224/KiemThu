@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Bảng Thống kê Email và các cột</description>
+   <name>TUI39</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3aeb8902-59d8-4507-b941-567795e1a26f</testCaseGuid>
+</TestCaseEntity>

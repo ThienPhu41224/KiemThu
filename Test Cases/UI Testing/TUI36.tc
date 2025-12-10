@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Khu vực Xem trước Email (Email Preview)</description>
+   <name>TUI36</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3da408b-272f-4e58-88f4-0be79933a257</testCaseGuid>
+</TestCaseEntity>

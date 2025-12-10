@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị Nút chức năng và Thông báo thành công</description>
+   <name>TUI35</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adac9701-6e82-4d6a-9535-b7e5d9b39da0</testCaseGuid>
+</TestCaseEntity>

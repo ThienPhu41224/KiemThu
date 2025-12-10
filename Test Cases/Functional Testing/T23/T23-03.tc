@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Khóa/Mở tài khoản.</description>
+   <name>T23-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15e3aecc-c433-4f6a-9d28-e202b813d0a9</testCaseGuid>
+</TestCaseEntity>

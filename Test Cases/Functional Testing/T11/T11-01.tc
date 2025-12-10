@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng ký với tất cả các trường hợp lệ và EULA được chấp nhận.</description>
+   <name>T11-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6df29f89-00a0-4f5d-bc67-3d16c8b4145d</testCaseGuid>
+</TestCaseEntity>

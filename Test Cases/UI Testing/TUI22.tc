@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị 3 biểu đồ thống kê chính</description>
+   <name>TUI22</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>464f93da-473d-4755-82e8-d83de09359cd</testCaseGuid>
+</TestCaseEntity>
