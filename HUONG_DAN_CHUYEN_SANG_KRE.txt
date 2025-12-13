@@ -1,0 +1,321 @@
+================================================================================
+    HƯỚNG DẪN CHUYỂN SANG KATALON RUNTIME ENGINE (KRE)
+    Cho dự án: KiemThu - Katalon Studio Project
+    Hệ điều hành: Windows
+================================================================================
+
+TỔNG QUAN:
+----------
+Katalon Runtime Engine (KRE) là phiên bản được thiết kế đặc biệt cho CI/CD.
+KRE không có GUI, không có WebView, nên sẽ không bị treo như Katalon Studio
+khi chạy trong Jenkins service.
+
+LỢI ÍCH KHI DÙNG KRE:
+---------------------
+1. ✅ Không bị treo - KRE không có WebView, không bị treo như Katalon Studio
+2. ✅ Headless ổn định - Chạy headless browser tốt hơn nhiều
+3. ✅ Phù hợp CI/CD - Được thiết kế đặc biệt cho môi trường CI/CD
+4. ✅ License hợp lệ - License cho CI/CD là hợp lệ
+5. ✅ Chạy trong Jenkins service - Không cần UI, chạy được trong service
+
+
+================================================================================
+BƯỚC 1: TẢI KRE
+================================================================================
+
+1.1. Truy cập website Katalon
+-----------------------------
+- Vào: https://katalon.com/download
+- Tìm phần "Katalon Runtime Engine" (KRE)
+- Chọn phiên bản phù hợp với Windows
+
+1.2. Tải file cài đặt
+---------------------
+- Click "Download" để tải KRE
+- Lưu file cài đặt vào máy (thường là file .zip hoặc .exe)
+
+
+================================================================================
+BƯỚC 2: CÀI ĐẶT KRE
+================================================================================
+
+2.1. Giải nén/Cài đặt KRE
+--------------------------
+1. Nếu là file .zip: Giải nén vào thư mục (ví dụ: C:\Katalon\KRE)
+2. Nếu là file .exe: Chạy file cài đặt và làm theo hướng dẫn
+
+2.2. Ghi nhớ đường dẫn
+----------------------
+- Đường dẫn thường là: C:\Katalon\KRE\katalon.exe
+- Hoặc: C:\Program Files\Katalon\KRE\katalon.exe
+- Ghi lại đường dẫn này để dùng trong Jenkinsfile
+
+
+================================================================================
+BƯỚC 3: KIỂM TRA KRE
+================================================================================
+
+3.1. Test KRE từ Command Line
+-----------------------------
+Mở PowerShell và chạy:
+
+    "C:\Katalon\KRE\katalon.exe" -help
+
+Nếu hiển thị help menu, KRE đã cài đặt đúng.
+
+3.2. Test KRE với project của bạn
+----------------------------------
+Mở PowerShell, chạy:
+
+    cd "F:\BAV\Năm 4\Kì 1\KTVDBCLPM\KiemThu"
+    
+    "C:\Katalon\KRE\katalon.exe" -runMode=console `
+    -projectPath="F:\BAV\Năm 4\Kì 1\KTVDBCLPM\KiemThu" `
+    -retry=0 `
+    -testSuitePath="Test Suites/UI/Login Testcases" `
+    -executionProfile="default" `
+    -browserType="Chrome (headless)"
+
+Nếu chạy được và không bị treo, KRE đã sẵn sàng!
+
+
+================================================================================
+BƯỚC 4: CẬP NHẬT JENKINSFILE
+================================================================================
+
+4.1. Thay đổi đường dẫn katalon.exe
+------------------------------------
+Trong Jenkinsfile, tìm dòng:
+
+    "C:\Users\haidu\.katalon\packages\KSE-10.4.2\katalon.exe"
+
+Thay thành:
+
+    "C:\Katalon\KRE\katalon.exe"
+
+(Lưu ý: Thay đường dẫn này bằng đường dẫn thực tế nơi bạn cài KRE)
+
+4.2. Jenkinsfile mẫu với KRE
+-----------------------------
+pipeline {
+    agent any
+    
+    stages {
+        stage('Checkout') {
+            steps {
+                echo 'Checking out code from GitHub...'
+                git branch: 'main', 
+                     url: 'https://github.com/ThienPhu41224/KiemThu.git',
+                     credentialsId: ''
+            }
+        }
+        
+        stage('Run Katalon Tests') {
+            steps {
+                echo 'Running Katalon Runtime Engine tests...'
+                timeout(time: 30, unit: 'MINUTES') {
+                    bat '''
+                        "C:\\Katalon\\KRE\\katalon.exe" -runMode=console ^
+                        -projectPath="%WORKSPACE%" ^
+                        -retry=0 ^
+                        -testSuitePath="Test Suites/UI Testing" ^
+                        -executionProfile="default" ^
+                        -browserType="Chrome (headless)" ^
+                        -apiKey="" ^
+                        -g_username="" ^
+                        -g_password=""
+                    '''
+                }
+            }
+        }
+        
+        stage('Archive Reports') {
+            steps {
+                echo 'Archiving test reports...'
+                archiveArtifacts artifacts: 'Reports/**/*', 
+                                fingerprint: true, 
+                                allowEmptyArchive: true
+            }
+        }
+    }
+    
+    post {
+        always {
+            echo 'Pipeline execution completed.'
+        }
+        success {
+            echo 'Tests passed successfully!'
+        }
+        failure {
+            echo 'Tests failed!'
+        }
+    }
+}
+
+4.3. Lưu ý về đường dẫn
+------------------------
+- Trong Jenkinsfile, dùng \\ (double backslash) hoặc / (forward slash)
+- Ví dụ: "C:\\Katalon\\KRE\\katalon.exe" hoặc "C:/Katalon/KRE/katalon.exe"
+
+
+================================================================================
+BƯỚC 5: COMMIT VÀ PUSH JENKINSFILE
+================================================================================
+
+5.1. Commit thay đổi
+--------------------
+Mở terminal trong thư mục project, chạy:
+
+    git add Jenkinsfile
+    git commit -m "Switch to Katalon Runtime Engine (KRE)"
+    git push origin main
+
+
+================================================================================
+BƯỚC 6: CHẠY LẠI BUILD TRONG JENKINS
+================================================================================
+
+6.1. Trigger build
+------------------
+1. Vào Jenkins → job "KiemThu-CI-CD"
+2. Click "Build Now"
+3. Hoặc đợi Poll SCM tự động trigger
+
+6.2. Kiểm tra kết quả
+---------------------
+1. Vào build vừa chạy
+2. Xem Console Output
+3. Kiểm tra xem có còn bị treo không
+4. Xem test results và reports
+
+
+================================================================================
+SO SÁNH KATALON STUDIO VS KRE
+================================================================================
+
+| Tiêu chí              | Katalon Studio        | KRE                   |
+|-----------------------|-----------------------|-----------------------|
+| GUI                   | ✅ Có                 | ❌ Không              |
+| WebView               | ✅ Có (gây treo)      | ❌ Không              |
+| Chạy trong service    | ❌ Dễ lỗi/treo        | ✅ Ổn định            |
+| Headless browser      | ⚠️ Hay lỗi            | ✅ Chuẩn               |
+| License CI/CD         | ❌ Không hợp lệ       | ✅ Hợp lệ              |
+| Phù hợp CI/CD         | ❌ Không              | ✅ Có                  |
+| Khuyến nghị Katalon   | ❌ Không              | ✅ Có                  |
+
+
+================================================================================
+LƯU Ý QUAN TRỌNG
+================================================================================
+
+1. License KRE
+--------------
+- KRE có thể cần license (tùy version)
+- Kiểm tra license trước khi dùng
+- Có thể dùng trial để test
+
+2. Đường dẫn
+------------
+- Đảm bảo đường dẫn KRE đúng trong Jenkinsfile
+- Nếu cài ở nơi khác, cập nhật đường dẫn
+- Test đường dẫn trước khi dùng trong Jenkins
+
+3. Tương thích
+--------------
+- KRE tương thích với project Katalon Studio
+- Không cần thay đổi test cases
+- Test suite và test cases chạy giống nhau
+
+4. Browser
+----------
+- KRE hỗ trợ headless tốt hơn
+- Có thể dùng "Chrome (headless)" hoặc "Firefox (headless)"
+- Không cần đổi sang Chrome có UI
+
+5. Performance
+--------------
+- KRE thường chạy nhanh hơn Katalon Studio
+- Ít tốn tài nguyên hơn (không có GUI)
+- Phù hợp cho CI/CD environment
+
+
+================================================================================
+XỬ LÝ LỖI THƯỜNG GẶP
+================================================================================
+
+Lỗi 1: "katalon.exe not found"
+--------------------------------
+Nguyên nhân: Đường dẫn KRE không đúng
+
+Giải pháp:
+1. Kiểm tra đường dẫn KRE trong Jenkinsfile
+2. Đảm bảo đã cài đặt KRE đúng
+3. Test đường dẫn từ command line trước
+
+Lỗi 2: License error
+---------------------
+Nguyên nhân: KRE cần license
+
+Giải pháp:
+1. Kiểm tra license KRE
+2. Có thể cần license cho CI/CD
+3. Dùng trial version để test
+
+Lỗi 3: Test không chạy
+-----------------------
+Nguyên nhân: Có thể do cấu hình
+
+Giải pháp:
+1. Kiểm tra testSuitePath có đúng không
+2. Kiểm tra executionProfile
+3. Xem console output để debug
+
+Lỗi 4: Browser không khởi động
+-------------------------------
+Nguyên nhân: Thiếu ChromeDriver hoặc cấu hình
+
+Giải pháp:
+1. Đảm bảo Chrome đã cài
+2. Kiểm tra ChromeDriver
+3. Thử với Firefox nếu Chrome không được
+
+
+================================================================================
+CHECKLIST HOÀN THÀNH
+================================================================================
+
+[ ] Tải KRE từ website Katalon
+[ ] Cài đặt KRE (ghi nhớ đường dẫn)
+[ ] Test KRE từ command line
+[ ] Test KRE với project của bạn
+[ ] Cập nhật Jenkinsfile (đổi đường dẫn)
+[ ] Commit và push Jenkinsfile
+[ ] Chạy lại build trong Jenkins
+[ ] Kiểm tra kết quả - không còn bị treo
+[ ] Xem test results và reports
+
+
+================================================================================
+KẾT LUẬN
+================================================================================
+
+Sau khi chuyển sang KRE, bạn sẽ:
+- ✅ Không còn bị treo ở "WebView Server has been started"
+- ✅ Chạy được trong Jenkins service mà không cần UI
+- ✅ Headless browser hoạt động ổn định
+- ✅ CI/CD pipeline chạy mượt mà hơn
+
+KRE là giải pháp tốt nhất cho CI/CD với Katalon!
+
+
+================================================================================
+THÔNG TIN THAM KHẢO
+================================================================================
+
+- Katalon Download: https://katalon.com/download
+- KRE Documentation: https://docs.katalon.com/katalon-runtime-engine/docs/overview.html
+- Katalon Console Mode: https://docs.katalon.com/katalon-studio/docs/console-mode-execution.html
+
+
+================================================================================
+
